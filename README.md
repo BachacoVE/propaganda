@@ -1,2 +1,2 @@
 # propaganda
-Diseños de Bachaco-VE
+Diseños gráficos de Bachaco-VE
